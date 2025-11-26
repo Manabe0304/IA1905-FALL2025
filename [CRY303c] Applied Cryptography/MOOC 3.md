@@ -1,7 +1,3 @@
-<DOCUMENT filename="CRY301c MOOC 3 - Enhanced with Formulas.docx">
-
-[... All the original content of MOOC 3 remains exactly as you provided ...]
-
 ### **Key Asymmetric Cryptography & Key Management Formulas Summary**
 *(Complete mathematical reference for MOOC 3 – every formula that appears or is derived in the course)*
 
