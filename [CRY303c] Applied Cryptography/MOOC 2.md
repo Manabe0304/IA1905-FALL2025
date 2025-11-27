@@ -90,5 +90,3 @@
 | 256-bit        | AES-256                    | High-security, post-quantum ready   |
 
 These formulas and values represent the complete mathematical foundation of **MOOC 2: Symmetric Cryptography**. Keep this summary handy for exams, exercises, and understanding modern cipher design.
-
-</DOCUMENT>
