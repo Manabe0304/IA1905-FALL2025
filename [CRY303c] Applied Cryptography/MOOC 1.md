@@ -66,5 +66,3 @@ Security level is often expressed as resisting an attacker with **2^k** operatio
 | 256 (AES-256)     | 1.1 × 10⁷⁷    | astronomical                           | Future-proof                |
 
 These are all the specific mathematical formulas and quantitative relationships explicitly presented or derived in **MOOC 1: Cryptography and Information Theory**. They serve as the core mathematical toolkit for the rest of the course.
-
-</DOCUMENT>
