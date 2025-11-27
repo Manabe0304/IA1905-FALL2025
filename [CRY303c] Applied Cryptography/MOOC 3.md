@@ -110,5 +110,3 @@ c = 7¹¹ mod 143 = 106
 - Digital signature of the above by the CA → **Sig_CA(Hash(all fields above))**
 
 These formulas and parameters constitute the complete mathematical foundation of **MOOC 3: Asymmetric Cryptography and Key Management**. Use this summary for exams, practical implementation, and quick reference.
-
-</DOCUMENT>
