@@ -100,5 +100,3 @@ where target = 2²⁵⁶ / difficulty
 | ECC/EdDSA        | 256 bits                 | –                        |
 
 These are **all** the formulas, quantitative security levels, and mathematical constructions explicitly presented or derived throughout **MOOC 4: Cryptographic Hash and Integrity Protection**. Keep this summary as your definitive cheat-sheet for exams and real-world design decisions.
-
-</DOCUMENT>
